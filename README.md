@@ -1,4 +1,5 @@
-# 👋 Hi there! My name is Filip and i am 21 yo web developer & university student.
+# 👋 Hi there! 
+# My name is Filip and i am 21 yo web developer & university student.
 
 ## 🔭 I’m currently working on ...
   ### PoorichTatto Presentational website
