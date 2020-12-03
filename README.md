@@ -2,7 +2,7 @@
 # My name is Filip and i am 21 yo web developer & university student.
 
 ## 🔭 I’m currently working on ...
-  ### PoorichTatto Presentational website
+  ### PoorichTatto Presentation website
   
 ## 🌱 I’m currently learning ...
   ### HTML 5
