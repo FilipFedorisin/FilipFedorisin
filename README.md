@@ -1,17 +1,14 @@
 # 👋 Hi there! 
-# My name is Filip and i am 21 yo web developer & university student.
+# My name is Filip and i am 21 yo web developer.
 
 ## 🔭 I’m currently working on ...
-  ### PoorichTatto Presentation website
+  ### Corona Virus data scraping website with nuxt
   
 ## 🌱 I’m currently learning ...
-  ### HTML 5
-  ### SCSS
-  ### Vue.js
   ### Nuxt.js
+  ### Vue.js
   ### node.js
   ### adonis.js
-  ### javascript
   ### MySQL
   
 ## 📫 How to reach me: ...
