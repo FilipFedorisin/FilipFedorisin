@@ -10,7 +10,7 @@
   * Nuxt
   * Vue
   * Adonis / Express
-  * MySQL 
+  * MySQL / MongoDB
   * REST API
   * PWA
   
