@@ -1,4 +1,4 @@
-# 👋 Hi there! My name is Filip and i am 21 yo web developer. 
+#_ 👋 Hi there! My name is Filip and i am 21 yo web developer._ 
 # 🛍 Offering Custom Websites!
 
 ## 🔭 I’m currently working on ...
@@ -10,9 +10,9 @@
   * Nuxt
   * Vue
   * Adonis / Express
-  ### MySQL 
-  ### REST API
-  ### PWA
+  * MySQL 
+  * REST API
+  * PWA
   
 ## 📫 How to start working with me: ...
   ### https://www.facebook.com/fedorisinfilip
