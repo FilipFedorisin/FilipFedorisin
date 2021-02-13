@@ -7,9 +7,9 @@
   ### Tattoo Custom resentational & interactive website
   
 ## 🌱 I’m currently working with ...
-  ### Nuxt
-  ### Vue.
-  ### Adonis / Express
+  * Nuxt
+  * Vue
+  * Adonis / Express
   ### MySQL 
   ### REST API
   ### PWA
