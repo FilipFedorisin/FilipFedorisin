@@ -16,5 +16,3 @@
   
 ## 📫 How to start working with me: ...
   ### https://www.facebook.com/fedorisinfilip
-  ### fedorisinfilip@gmail.com
-
