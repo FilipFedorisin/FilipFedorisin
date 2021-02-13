@@ -4,7 +4,7 @@
 ## 🔭 I’m currently working on ...
   * Corona Virus data scraping website with nuxt & axios
   * Full Stack Kanban board with user verification & database 
-  * Tattoo Custom resentational & interactive website
+  * Tattoo Custom representational & interactive website
   
 ## 🌱 I’m currently working with ...
   * Nuxt
