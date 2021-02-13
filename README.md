@@ -1,4 +1,5 @@
-# 👋 Hi there! My name is Filip and i am 21 yo web developer. Offering Custom Full Stack Websites!!!
+# 👋 Hi there! My name is Filip and i am 21 yo web developer. 
+# 🛍 Offering Custom Full Stack Websites!!!
 
 ## 🔭 I’m currently working on ...
   ### Corona Virus data scraping website with nuxt & axios
