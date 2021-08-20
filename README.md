@@ -2,8 +2,8 @@
 # 🛍 **Offering Custom Websites!**                                                              
 
 ## 🔭 I’m currently working on ...
-  * Corona Virus data scraping website with nuxt & axios
-  * Full Stack Kanban board with user verification & database 
+  * Kreado - Full stack project managment & web dev app with Next.js
+  * Cleaning - Landing page using Next.js and modern design
   * Tattoo Custom representational & interactive website
   
 ## 🌱 I’m currently working with ...
