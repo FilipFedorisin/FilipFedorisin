@@ -3,16 +3,15 @@
 
 ## 🔭 I’m currently working on ...
   * Kreado - Full stack project managment & web dev app with Next.js
-  * Cleaning - Landing page using Next.js and modern design
+  * Cleaning - Landing page using Next.js and Admin system to modify displayed data
   * Tattoo Custom representational & interactive website
   
 ## 🌱 I’m currently working with ...
   * React / Next
   * Vue / Nuxt
   * Node / Express
-  * MySQL / MongoDB
+  * Firebase
   * REST API
-  * PWA
   
 ## 📫 How to start working with me: ...
   ### https://www.facebook.com/fedorisinfilip
