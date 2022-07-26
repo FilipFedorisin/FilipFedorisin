@@ -1,17 +1,12 @@
-# 👋 _Hi there! My name is Filip and i am 22 yo web developer._ 
-# 🛍 **Offering Custom Websites!**                                                              
+# 👋 Hi there! My name is Filip and i do tech.                                                             
 
 ## 🔭 I’m currently working on ...
-  * Kreado - Full stack project managment & web dev app with Next.js
-  * Cleaning - Landing page using Next.js and Admin system to modify displayed data
-  * Tattoo Custom representational & interactive website
+ * Custom Raycaster for Virtual Reality
+ * Radio Communication Software
+ * Eshop systems - Fully dynamic & editable
+ * Admin Dashboards - Finance control
   
 ## 🌱 I’m currently working with ...
-  * React / Next
-  * Vue / Nuxt
-  * Node / Express
-  * Firebase
-  * REST API
-  
-## 📫 How to start working with me: ...
-  ### https://www.facebook.com/fedorisinfilip
+  * Next, Typescript, redux, etc.
+  * C++, OpenGL
+  * Linux, iDRAC, Python, Servers
