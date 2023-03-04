@@ -1,11 +1,9 @@
 # 👋 Hi there! My name is Filip and i do tech.                                                             
 
 ## 🔭 I’m currently working on ...
- * Radio Communication Software
- * Ecommerce solutions
- * Admin Dashboards
+ * Interactive teaching platform
+ * Headless CMS solutions
   
 ## 🌱 I’m currently working with ...
-  * Next, Typescript, redux, etc.
-  * C++, OpenGL
-  * Linux, iDRAC, Docker, Kubernetes
+  * Next, Typescript, Prisma, tailwind, tRPC
+  * Linux, iDRAC, Docker, Prometheus
