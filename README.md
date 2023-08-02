@@ -5,5 +5,5 @@
  * Headless CMS solutions
   
 ## 🌱 I’m currently working with ...
-  * Next, Typescript, Prisma, tailwind, tRPC
-  * Linux, iDRAC, Docker, Prometheus
+  * Nextjs, Typescript, Prisma, Tailwind, tRPC, Postgresql
+  * Linux, Ubuntu Server, iDRAC, Docker, Nginx, Prometheus, NextCloud
